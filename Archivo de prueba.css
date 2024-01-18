@@ -1,0 +1,39 @@
+h1 {
+    color: #B03A2E;
+    /* color de texto */
+    background-color: aquamarine;
+    /* color de fondo */
+    text-align: center;
+    /* alineacion de texto */
+
+}
+
+h2 {
+    color: #1A5276;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color: rgb(46, 204, 113);
+    line-height: 20px;
+
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.tres {
+    background-color: aquamarine;
+}
+
+#cuatro {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 570px;
+}
